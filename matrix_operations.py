@@ -27,6 +27,6 @@ print("Matrix:")
 for cols in matrix:
     print(cols)  
 
-print("Sum of column 0:", get_column_sum(matrix, 2))
+print("Sum of column 2:", get_column_sum(matrix, 2))
 
 print("Average of row 1:", get_row_average(matrix, 1))
